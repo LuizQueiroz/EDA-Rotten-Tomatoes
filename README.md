@@ -15,10 +15,10 @@ Os principais objetivos desta análise exploratória são:
 ### Ferramentas Utilizadas
 Para atingir esses objetivos, utilizamos uma variedade de ferramentas e bibliotecas em Python, incluindo:
 
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
 
 ### Resultados
 1. Relação entre notas: Existe uma tendência linear entre as notas da crítica e as notas do público, com algumas exceções em que as notas são inversas, indicando que, em geral, quando a crítica avalia positivamente um filme, o público também tende a fazê-lo. No entanto, existem alguns outliers.
