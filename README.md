@@ -1,4 +1,4 @@
-## Análise Exploratória: O Que Torna um Filme Bem Avaliado no Rotten Tomatoes? 🍅
+## Análise Exploratória de Dados: O Que Torna um Filme Bem Avaliado no Rotten Tomatoes? 🍅
 
 Este repositório contém uma análise exploratória de dados realizada em Python, com o propósito de investigar os fatores que contribuem para que um filme seja bem avaliado no renomado site de críticas de cinema, Rotten Tomatoes. A análise se baseia na extração de informações relevantes do site e na aplicação de técnicas de processamento e visualização de dados.
 
